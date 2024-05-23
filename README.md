@@ -4,6 +4,8 @@
 
 Este é um projeto de um site de apostas simples desenvolvido em React. O site permite que os usuários se cadastrem, façam login, naveguem por um menu principal, façam apostas que sorteiam um número aleatório, visualizem seu perfil e adicionem dinheiro à sua conta.
 
+![Captura de tela 2024-05-23 204108](https://github.com/gustavo250103/ProjetoIssacBET-React-/assets/89088437/ec5e0eec-3140-4102-9ee4-14c659136255)
+
 ## Funcionalidades
 
 - **Cadastro:** Permite que novos usuários se cadastrem no site.
